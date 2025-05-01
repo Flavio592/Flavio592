@@ -1,4 +1,4 @@
-- Hi, I’m Flavio.
+- Hi, I’m Flavio Breazzano.
 - I’m currently studying an Advanced Diploma in Applied Science (Robotics and Artificial Intelligence).
 - I have had experience with HTML, JavaScript, and SQL for the Web.
 - I’m currently working on C# programming assignments for my studies.
