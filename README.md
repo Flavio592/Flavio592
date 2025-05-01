@@ -1,4 +1,4 @@
-- Hi, I’m @Flavio592.
+- Hi, I’m Flavio592.
 - I’m currently studying an Advanced Diploma in Applied Science (Robotics and Artificial Intelligence).
 - I’m currently working on C# programming assignments for my studies.
 - In the near future I will be focused on learning how to program quantum artificial intelligence.
