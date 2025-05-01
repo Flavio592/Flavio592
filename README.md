@@ -1,5 +1,6 @@
-- Hi, I’m Flavio592.
+- Hi, I’m Flavio.
 - I’m currently studying an Advanced Diploma in Applied Science (Robotics and Artificial Intelligence).
+- I have had experience with HTML, JavaScript, and SQL for the Web.
 - I’m currently working on C# programming assignments for my studies.
 - In the near future I will be focused on learning how to program quantum artificial intelligence.
 <!---
