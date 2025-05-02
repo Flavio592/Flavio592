@@ -4,7 +4,7 @@
 - I’m currently working on C# programming assignments for my studies.
 - In the near future I will be focused on learning how to program quantum artificial intelligence.
 - I have also been offered a PhD scholarship from Professor Uwe Aickelin, at the University of Melbourne, Australia.
-- In addition, I am also a potential innovator and researcher with the US Pentagon's DARPA (Defense Advanced Research Projects Agency).
+- In addition, I am also a member of DARPAConnect and the US DOD's SciTechCONNECT, as well as a potential innovator and researcher with the US Pentagon's DARPA (Defense Advanced Research Projects Agency).
 <!---
 Flavio592/Flavio592 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
