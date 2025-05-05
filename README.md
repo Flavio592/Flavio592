@@ -1,11 +1,12 @@
 - Hi, I’m Flavio Breazzano.
 - I’m currently studying an Advanced Diploma in Applied Science (Robotics and Artificial Intelligence), with ACS Distance Education, United Kingdom.
-- I have had experience with HTML, JavaScript, and SQL for the Web.
+- I have had experience with HTML, JavaScript, SQL for the Web, and also Visual Basic.Net.
 - I’m currently working on C# programming assignments for my studies.
 - In the near future I will be focused on learning how to program quantum artificial intelligence.
-- I have been offered a PhD scholarship from Professor Uwe Aickelin, at the University of Melbourne, Australia.
-- I also recently participated in a virtual internship with the Carboncopies Foundation in the US, that conducts research into mind uploading technologies.
+- Following the advanced diploma I will be studying a Bachelor in Applied Science, and a Masters in Computer Science (Computation Engineering), and have even been offered a PhD scholarship from Professor Uwe Aickelin, at the University of Melbourne, Australia, as long as I maintain a high-grade average througout the rest of my studies.
+- I also recently participated in a virtual internship with the Carboncopies Foundation in the US, as part of their scientific ethics team, directed by Dr. Randal Koene, that conducts research into mind uploading technologies, on the quest to immortality.
 - In addition, I am also a member of DARPAConnect and the US DOD's SciTechCONNECT, as well as a potential innovator and researcher with the US Pentagon's DARPA (Defense Advanced Research Projects Agency).
+- Over the next few months I will be submitting a research grant proposal to DARPA in regard to a quantum mind uploading project that I intend to instantiate in collaboration with the Carboncopies Foundation, and have already obtained positive feedback from senior DARPA members in regard to what I intend to accomplish.
 - Please feel free to visit my LinkedIn profile for more details of my studies, research, and work.
 <!---
 Flavio592/Flavio592 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
