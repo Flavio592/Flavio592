@@ -1,6 +1,6 @@
 - Hi, I’m Flavio Breazzano.
 - I’m currently studying an Advanced Diploma in Applied Science (Robotics and Artificial Intelligence), with ACS Distance Education, United Kingdom.
-- I have had experience with HTML, JavaScript, SQL for the Web, and also Visual Basic.Net.
+- I have had experience with HTML, JavaScript, SQL for the Web, and Visual Basic.Net.
 - I’m currently working on C# programming assignments for my studies.
 - In the near future I will be focused on learning how to program quantum artificial intelligence.
 - Following the advanced diploma I will be studying a Bachelor in Applied Science, and a Masters in Computer Science (Computation Engineering), and have even been offered a PhD scholarship from Professor Uwe Aickelin, at the University of Melbourne, Australia, as long as I maintain a high-grade average througout the rest of my studies.
